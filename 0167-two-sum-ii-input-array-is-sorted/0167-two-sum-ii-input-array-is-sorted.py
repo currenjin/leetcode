@@ -4,13 +4,15 @@ class Solution(object):
         right = len(numbers) - 1
         
         while(left < right):
-            if(numbers[left] + numbers[right] == target):
+            total = numbers[left] + numbers[right]
+            
+            if(total == target):
                 return [left + 1, right + 1]
             
-            if(numbers[left] + numbers[right] > target):
+            if(total > target):
                 right -= 1
                 continue
                 
-            if(numbers[left] + numbers[right] < target):
+            if(total < target):
                 left += 1
                 continue
