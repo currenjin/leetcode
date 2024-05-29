@@ -4,10 +4,7 @@ class Solution(object):
         first = 0
         second = 0
         
-        while(first < len(s)):
-            if(second > len(t) - 1):
-                break
-                
+        while(first < len(s) and second < len(t)):
             if(s[first] == t[second]):
                 first += 1
                 count += 1
