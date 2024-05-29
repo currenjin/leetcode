@@ -8,11 +8,7 @@ class Solution(object):
             
             if(total == target):
                 return [left + 1, right + 1]
-            
-            if(total > target):
+            elif(total > target):
                 right -= 1
-                continue
-                
-            if(total < target):
+            else:
                 left += 1
-                continue
