@@ -13,5 +13,6 @@ class Solution(object):
                 right -= 1
                 continue
                 
-            left += 1
-            continue
+            if(total < target):
+                left += 1
+                continue
