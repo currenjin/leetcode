@@ -14,3 +14,4 @@ class Solution(object):
                 continue
                 
             left += 1
+            continue
