@@ -3,16 +3,11 @@ class Solution {
         String stringX = String.valueOf(x);
         int length = stringX.length();
         if (length == 1) return true;
-        
-        int middleLength = length / 2;
-        if (length % 2 == 1) {
-            String stringFirst = stringX.substring(0, middleLength + 1);
-            String stringSecond = stringX.substring(middleLength, length);
-            return stringFirst.equals(new StringBuffer(stringSecond).reverse().toString());
+
+        for (int i=0; i<length/2; i++) {
+            if (stringX.charAt(i) != stringX.charAt(length-i-1)) return false;
         }
 
-        String stringFirst = stringX.substring(0, middleLength);
-        String stringSecond = stringX.substring(middleLength, length);
-        return stringFirst.equals(new StringBuffer(stringSecond).reverse().toString());
+        return true;
     }
 }
