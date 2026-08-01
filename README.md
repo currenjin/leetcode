@@ -9,10 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/currenjin/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/currenjin/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/currenjin/leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/currenjin/leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/currenjin/leetcode/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/currenjin/leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -35,11 +37,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/currenjin/leetcode/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/currenjin/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/currenjin/leetcode/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/currenjin/leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/currenjin/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/currenjin/leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/currenjin/leetcode/tree/master/0268-missing-number) |
 ## Trie
 |  |
 | ------- |
@@ -48,8 +52,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/currenjin/leetcode/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/currenjin/leetcode/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/currenjin/leetcode/tree/master/0067-add-binary) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/currenjin/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
