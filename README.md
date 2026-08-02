@@ -35,12 +35,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/currenjin/leetcode/tree/master/0014-longest-common-prefix) |
+| [0033-search-in-rotated-sorted-array](https://github.com/currenjin/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/currenjin/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/currenjin/leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/currenjin/leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/currenjin/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/currenjin/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/currenjin/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/currenjin/leetcode/tree/master/0268-missing-number) |
