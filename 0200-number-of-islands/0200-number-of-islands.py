@@ -26,6 +26,5 @@ class Solution(object):
                             grid[nr][nc] = "0"
                             queue.append((nr, nc))
 
-        
 
         return land
