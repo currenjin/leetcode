@@ -10,6 +10,7 @@ class Solution(object):
             for c, col in enumerate(row):
                 if col == "1":
                     queue.append((r, c))
+                    grid[r][c] = "0"
                     island += 1
 
                 while queue:
