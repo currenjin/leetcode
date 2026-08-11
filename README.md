@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/currenjin/leetcode/tree/master/0066-plus-one) |
 | [0200-number-of-islands](https://github.com/currenjin/leetcode/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/currenjin/leetcode/tree/master/0268-missing-number) |
+| [0542-01-matrix](https://github.com/currenjin/leetcode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/currenjin/leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/currenjin/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Binary Search
@@ -72,12 +73,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/currenjin/leetcode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/currenjin/leetcode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/currenjin/leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/currenjin/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/currenjin/leetcode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/currenjin/leetcode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/currenjin/leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/currenjin/leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Depth-First Search
@@ -88,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/currenjin/leetcode/tree/master/0200-number-of-islands) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/currenjin/leetcode/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
