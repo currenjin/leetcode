@@ -16,18 +16,17 @@ class Solution(object):
         directions = [(0, 1), (0, -1), (1, 0), (-1, 0)]
 
         while queue:
-            for _ in range(len(queue)):
-                cr, cc = queue.popleft()
-                
-                for dr, dc in directions:
-                    nr = dr + cr
-                    nc = dc + cc
+            cr, cc = queue.popleft()
+            
+            for dr, dc in directions:
+                nr = dr + cr
+                nc = dc + cc
 
-                    if not (0 <= nr < rows and 0 <= nc < cols): continue
-                    if distance[nr][nc] != -1: continue
+                if not (0 <= nr < rows and 0 <= nc < cols): continue
+                if distance[nr][nc] != -1: continue
 
-                    distance[nr][nc] = distance[cr][cc] + 1
-                    queue.append((nr, nc))
+                distance[nr][nc] = distance[cr][cc] + 1
+                queue.append((nr, nc))
 
         return distance
 
