@@ -6,8 +6,8 @@ class Solution(object):
         2. BFS를 돌린다. (다음 위치가 출구가 있는 곳이라면 완료가 되어야 함)
         3. 출구를 못 찾으면 -1
 
-        시간복잡도: O(rows * cols)
-        공간복잡도: O(rows * cols)
+        시간복잡도: O(2RC)
+        공간복잡도: O(2RC)
 
         After
         1. 입구를 큐에 저장한다.
@@ -15,6 +15,9 @@ class Solution(object):
             방문은 + 처리를 한다.
             r이 0 or rows - 1, c가 0 or cols - 1이면 완료다.
         3. 출구를 못 찾으면 -1
+
+        시간복잡도: O(RC)
+        공간복잡도: O(RC)
         """
 
         queue = deque()
