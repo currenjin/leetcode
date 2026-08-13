@@ -24,7 +24,6 @@ class Solution(object):
         directions = [(0, 1), (0, -1), (1, 0), (-1, 0)]
         while queue:
             distance += 1
-            copy = grid[:]
             for _ in range(len(queue)):
                 cr, cc = queue.popleft()
                 for dr, dc in directions:
@@ -32,7 +31,7 @@ class Solution(object):
                     nc = dc + cc
 
                     if not (0 <= nr < rows and 0 <= nc < cols): continue
-                    if copy[nr][nc] == 1: continue
+                    if grid[nr][nc] == 1: continue
 
                     queue.append((nr, nc))
                     grid[nr][nc] = 1
