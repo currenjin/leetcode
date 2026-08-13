@@ -9,6 +9,9 @@ class Solution(object):
         시간복잡도
             - 초기 순회: O(RC)
             - BFS: O(RC)
+
+        공간복잡도
+            - queue: O(RC)
         """
 
         queue = deque()
