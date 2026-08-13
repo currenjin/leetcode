@@ -5,6 +5,10 @@ class Solution(object):
         2. BFS로 물들을 전부 방문처리한다.
         3. 최대 값을 반환한다.
         4. 없으면 -1을 반환한다.
+
+        시간복잡도
+            - 초기 순회: O(RC)
+            - BFS: O(RC)
         """
 
         queue = deque()
@@ -33,7 +37,7 @@ class Solution(object):
                     if not (0 <= nr < rows and 0 <= nc < cols): continue
                     if grid[nr][nc] == 1: continue
 
-                    queue.append((nr, nc))
                     grid[nr][nc] = 1
+                    queue.append((nr, nc))
 
         return distance
