@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/currenjin/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/currenjin/leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/currenjin/leetcode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/currenjin/leetcode/tree/master/0994-rotting-oranges) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/currenjin/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/currenjin/leetcode/tree/master/0200-number-of-islands) |
 ## Union-Find
 |  |
@@ -102,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0542-01-matrix](https://github.com/currenjin/leetcode/tree/master/0542-01-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/currenjin/leetcode/tree/master/1162-as-far-from-land-as-possible) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/currenjin/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/currenjin/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
