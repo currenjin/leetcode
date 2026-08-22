@@ -2,7 +2,7 @@ class Solution(object):
     def maxDepth(self, root):
         if root is None: return 0
 
-        right_depth = self.maxDepth(root.right)
-        left_depth = self.maxDepth(root.left)
+        left = self.maxDepth(root.left)
+        right = self.maxDepth(root.right)
 
-        return max(right_depth, left_depth) + 1
+        return max(left, right) + 1
