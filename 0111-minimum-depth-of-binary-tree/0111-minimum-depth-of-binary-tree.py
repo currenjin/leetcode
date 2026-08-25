@@ -4,8 +4,6 @@ class Solution(object):
 
         left = self.minDepth(root.left)
         right = self.minDepth(root.right)
-
-        if root.left is None: return right + 1
-        if root.right is None: return left + 1
         
+        if left == 0 or right == 0: return max(left, right) + 1
         return min(left, right) + 1
