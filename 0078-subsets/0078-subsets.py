@@ -1,10 +1,10 @@
 class Solution(object):
     def subsets(self, nums):
-        result = []
+        results = []
 
         def dfs(index, path):
             if index == len(nums):
-                result.append(path[:])
+                results.append(path[:])
                 return
 
             dfs(index + 1, path)
@@ -15,4 +15,4 @@ class Solution(object):
             path.pop()
 
         dfs(0, [])
-        return result
+        return results
