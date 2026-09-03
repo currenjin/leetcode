@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/currenjin/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/currenjin/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/currenjin/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/currenjin/leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/currenjin/leetcode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/currenjin/leetcode/tree/master/0070-climbing-stairs) |
 | [0542-01-matrix](https://github.com/currenjin/leetcode/tree/master/0542-01-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/currenjin/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 ## Tree
@@ -146,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/currenjin/leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/currenjin/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/currenjin/leetcode/tree/master/0078-subsets) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/currenjin/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
